@@ -3,6 +3,10 @@ Brandon Sanderson is a prolific author who publishes regularly-updated progress 
 This repo contains a bot which monitors those progress bars and tweets out changes.
 You can see it in action at https://twitter.com/SandersonWrote
 
+![test status](https://github.com/jffry/SandersonWrote-bot/workflows/Run%20Tests/badge.svg)
+![bot status](https://healthchecks.io/badge/f5327466-9064-47fd-a1ad-cc6203692963/dc3XvLhQ/%2540SandersonWrote.svg)
+
+
 ## Setup Steps
 
 - `npm install`
