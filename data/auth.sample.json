@@ -1,0 +1,12 @@
+{
+  "healthcheck": {
+    "success": "https://hc-ping.com/XXXXXXXX",
+    "failure": "https://hc-ping.com/XXXXXXXX/fail"
+  },
+  "twitter": {
+    "consumer_key": "AAAAAAAA",
+    "consumer_secret": "BBBBBBB",
+    "access_token_key": "XXXXXXXX",
+    "access_token_secret": "YYYYYYYY"
+  }
+}
